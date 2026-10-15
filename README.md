@@ -299,10 +299,6 @@ Please keep contributions focused, reproducible, and easy to understand.
 **Hammad Farooq**  
 Senior Data Scientist | AI & ML Engineer | LLM Solutions Architect
 
-- **GitHub:** [@hammadfarooq-ai](https://github.com/hammadfarooq-ai)
-- **LinkedIn:** [Hammad Farooq](https://www.linkedin.com/in/hammadfarooq-ai/)
-- **Portfolio:** [malikhammad.lovable.app](https://malikhammad.lovable.app/)
-
 ---
 
 <p align="center">
